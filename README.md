@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnansheikh404&label=Profile%20views&color=0e75b6&style=flat" alt="adnansheikh404" /> </p>
+<p align="left"> <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u?username=adnansheikh404&label=Profile%20views&color=0e75b6&style=flat" alt="adnansheikh404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnansheikh404" alt="adnansheikh404" /></a> </p>
 
